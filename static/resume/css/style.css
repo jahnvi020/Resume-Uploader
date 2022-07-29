@@ -1,0 +1,15 @@
+/* use inspect to find out id of gender and jobcity */
+#id_gender{
+    list-style-type: none;
+    display: inline-flex;
+}
+#id_gender>li{
+    padding-left: 10px;
+}
+#id_jobcity{
+    list-style-type: none;
+}
+#id_jobcity>li{
+    padding-left: 10px;
+    display: inline-flex;
+}
